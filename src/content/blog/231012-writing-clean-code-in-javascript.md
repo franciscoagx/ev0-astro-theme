@@ -2,7 +2,7 @@
 title: 'Writing Clean Code in JavaScript'
 description: 'Writing clean code is one of the most essential practices in software development.'
 pubDate: '2023-10-12T03:32:46.183Z'
-heroImage: '/blog-placeholder.jpg'
+heroImage: '/assets/cleancode.jpg'
 categories: ['Software Development']
 tags: ['JavaScript', 'Clean Code', 'Programming']
 author: '["Francisco Araujo"]'
